@@ -1,5 +1,5 @@
-## Welcome stranger! 😳
-## I hope you find what you are looking for
+## Welcome stranger! I hope you find what you are looking for😳
+
 
 <div align="center">
   <a href="https://github.com/felipemuchulski">
