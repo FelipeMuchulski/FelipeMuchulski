@@ -1,11 +1,8 @@
 ## Welcome stranger! I hope you find what you are looking for😳
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipemuchulskitheme=react&line_height=40&hide=css"/> </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemuchulski&show_icons=true&theme=dracula)
 
 
-<div align="center">
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemuchulski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemuchulski&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="mucha-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
