@@ -1,5 +1,4 @@
 ## Welcome stranger! I hope you find what you are looking for😳
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipemuchulskitheme=react&line_height=40&hide=css"/> </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemuchulski&show_icons=true&theme=dracula)
 
 
